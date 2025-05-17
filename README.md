@@ -51,10 +51,10 @@
 
 # Delete Documents
 1. Delete the movie Pee Wee Hermans Big Adventure
-<img src="Image/.PNG" alt="Alt Text" Width="600">
+<img src="Image/D1.PNG" alt="Alt Text" Width="600">
 
 2. Delete the movie Avatar
-<img src="Image/.PNG" alt="Alt Text" Width="600">
+<img src="Image/D2.PNG" alt="Alt Text" Width="600">
 
 # Relationships
 <img src="Image/RR1.PNG" alt="Alt Text" Width="500">
