@@ -7,19 +7,19 @@
 <img src="Image/1.PNG" alt="Alt Text" Width="500">
 
 2. Get all documents with writer set to Quentin Tarantino
-<img src="Image/1.PNG" alt="Alt Text" Width="500">
+<img src="Image/2.PNG" alt="Alt Text" Width="500">
 
 3. Get all documents where actors include Brad Pitt
-<img src="Image/.PNG" alt="Alt Text" Width="100">
+<img src="Image/3.PNG" alt="Alt Text" Width="500">
 
 4. Get all documents with franchise set to The Hobbit
-<img src="Image/.PNG" alt="Alt Text" Width="100">
+<img src="Image/4.PNG" alt="Alt Text" Width="500">
 
 5. Get all movies released in the 90s
-<img src="Image/.PNG" alt="Alt Text" Width="100">
+<img src="Image/5.PNG" alt="Alt Text" Width="500">
 
 6. Get all movies released before the year 2000 or after 2010
-<img src="Image/.PNG" alt="Alt Text" Width="100">
+<img src="Image/6.PNG" alt="Alt Text" Width="500">
 
 
 # Update Documents
