@@ -3,7 +3,7 @@
 ## MongoDB exercise using the mongo shell, along with the step-by-step instruction and commands
 
 ## Creating the Database
-<img src="Image/.PNG" alt="Alt Text" Width="200">
+<img src="Image/1.PNG" alt="Alt Text" Width="500">
 
 ## Inserting Documents
 <img src="Image/.PNG" alt="Alt Text" Width="200">
