@@ -2,17 +2,12 @@
 
 ## MongoDB exercise using the mongo shell, along with the step-by-step instruction and commands
 
-## Creating the Database
-<img src="Image/1.PNG" alt="Alt Text" Width="500">
-
-## Inserting Documents
-<img src="Image/.PNG" alt="Alt Text" Width="200">
-
 ## Query/Find Documents
 1. Get all documents
-<img src="Image/.PNG" alt="Alt Text" Width="100">
+<img src="Image/1.PNG" alt="Alt Text" Width="500">
 
 2. Get all documents with writer set to Quentin Tarantino
+<img src="Image/1.PNG" alt="Alt Text" Width="500">
 
 3. Get all documents where actors include Brad Pitt
 <img src="Image/.PNG" alt="Alt Text" Width="100">
